@@ -1,4 +1,4 @@
-Hi 👋 My name is Roman Shcheka
+Hi 👋 My name is Roman 
 ==============================
 
 QA Engineer
