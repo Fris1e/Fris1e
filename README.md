@@ -4,7 +4,7 @@ Hi 👋 My name is Roman
 QA Engineer
 -----------
 
-* 🌍  I'm based in Shri Lanka
+* 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [qa.romansh@gmail.com](mailto:qa.romansh@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
