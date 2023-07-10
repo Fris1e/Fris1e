@@ -6,6 +6,7 @@ QA Engineer
 
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [qa.romansh@gmail.com](mailto:qa.romansh@gmail.com)
+* 👨‍💻   Work examples
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
@@ -22,4 +23,6 @@ QA Engineer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Fris1e" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//roman-shcheka-68b27a268" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Fris1e" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//roman-shcheka-68b27a268" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://t.me/Fris_e" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcQMoJiPh_MITZQOudY3m_WwSAYFO61iFwg&usqp=CAU" width="32" height="32" /></a></p>
+
+<img src="https://komarev.com/ghpvc/?username=Fris1e&style=flat-square&color=blue" alt=""/>
