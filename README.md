@@ -6,7 +6,7 @@ Manual QA Engineer
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [qa.romansh@gmail.com](mailto:qa.romansh@gmail.com)
-* 👨‍💻   [Work examples](https://github.com/Fris1e/Fris1e/edit/main/Examples.md)
+* 👨‍💻   [Work examples](https://github.com/Fris1e/Fris1e/blob/main/Examples.md)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
