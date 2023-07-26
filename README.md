@@ -7,6 +7,11 @@ Manual QA Engineer
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [qa.romansh@gmail.com](mailto:qa.romansh@gmail.com)
 * 👨‍💻   [Work examples](https://github.com/Fris1e/Fris1e/blob/main/Examples.md)
+* I do the following types of testing:
+  - functional
+  - ui testing
+  - api testing
+  - usability testing
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
